@@ -2,4 +2,4 @@
 
 Ok
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<942113101556375582>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=942113101556375582)
